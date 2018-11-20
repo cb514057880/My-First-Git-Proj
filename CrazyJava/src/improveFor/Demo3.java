@@ -9,7 +9,7 @@ public class Demo3 {
         list.add("张三");
         list.add("李四");
         list.add("王五");
-        for()
+
 
 
         //新建不了新的list，所以不能增强循环
