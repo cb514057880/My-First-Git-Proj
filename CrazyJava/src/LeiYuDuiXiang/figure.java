@@ -8,4 +8,5 @@ package LeiYuDuiXiang;
  * 5 *
  **/
 public class figure {
+
 }
