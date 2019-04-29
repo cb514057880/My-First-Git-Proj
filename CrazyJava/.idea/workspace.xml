@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb3ae2f2-7b95-41f6-8dd0-4db1d7439f90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eb3ae2f2-7b95-41f6-8dd0-4db1d7439f90" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,33 +57,33 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="9" />
+          <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="84" />
+          <entry key="java" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="84" />
+          <entry key="JAVA" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
           <entry key="ft" value="30" />
-          <entry key="java" value="17166" />
+          <entry key="java" value="17852" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17166" />
+          <entry key="JAVA" value="17852" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="VTL" value="30" />
         </counts>
@@ -95,80 +93,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard.java">
+        <entry file="file://$PROJECT_DIR$/src/类语法细节/CashCard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="711">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/Way1.java">
+        <entry file="file://$PROJECT_DIR$/src/类语法细节/Example1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="264">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/Way2.java">
+        <entry file="file://$PROJECT_DIR$/src/类语法细节/Some0.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="464">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/Encapsulatedobject.java">
+        <entry file="file://$PROJECT_DIR$/src/类语法细节/Some1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1Way1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1Way2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="275">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Starbucks/Encapsulation3.java">
+        <entry file="file://$PROJECT_DIR$/src/类语法细节/OverloadBoxing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-              <folding>
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -196,11 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/Field.java" />
-        <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/Filed2.java" />
-        <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/Guess.java" />
-        <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/DecimalDemo.java" />
-        <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/DecimalDemo2.java" />
         <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/IntergerDemo1.java" />
         <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/IntegerDemo.java" />
         <option value="$PROJECT_DIR$/src/LeiYuDuiXiang/Score.java" />
@@ -247,6 +220,11 @@
         <option value="$PROJECT_DIR$/src/Starbucks/CashCard1.java" />
         <option value="$PROJECT_DIR$/src/Starbucks/CashCard1Way2.java" />
         <option value="$PROJECT_DIR$/src/Starbucks/Encapsulation3.java" />
+        <option value="$PROJECT_DIR$/src/类语法细节/CashCard.java" />
+        <option value="$PROJECT_DIR$/src/类语法细节/Example1.java" />
+        <option value="$PROJECT_DIR$/src/类语法细节/Some0.java" />
+        <option value="$PROJECT_DIR$/src/类语法细节/OverloadBoxing.java" />
+        <option value="$PROJECT_DIR$/src/类语法细节/Some1.java" />
       </list>
     </option>
   </component>
@@ -298,6 +276,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,21 +295,18 @@
               <item name="CrazyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrazyJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
+              <item name="类语法细节" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556375684489" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556523746241" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -349,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CashCard1Way2">
+  <component name="RunManager" selected="Application.OverloadBoxing">
     <configuration name="CashCard1Way1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Starbucks.CashCard1Way1" />
       <module name="CrazyJava" />
@@ -389,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Way1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Starbucks.Way1" />
+    <configuration name="OverloadBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类语法细节.OverloadBoxing" />
       <module name="CrazyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Starbucks.*" />
+          <option name="PATTERN" value="类语法细节.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,19 +394,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Way1" />
       <item itemvalue="Application.Way2" />
       <item itemvalue="Application.Encapsulatedobject" />
       <item itemvalue="Application.CashCard1Way1" />
       <item itemvalue="Application.CashCard1Way2" />
+      <item itemvalue="Application.OverloadBoxing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverloadBoxing" />
         <item itemvalue="Application.CashCard1Way2" />
         <item itemvalue="Application.CashCard1Way1" />
         <item itemvalue="Application.Encapsulatedobject" />
         <item itemvalue="Application.Way2" />
-        <item itemvalue="Application.Way1" />
       </list>
     </recent_temporary>
   </component>
@@ -488,17 +466,18 @@
       <workItem from="1556341509013" duration="5840000" />
       <workItem from="1556373130033" duration="421000" />
       <workItem from="1556374677704" duration="1053000" />
+      <workItem from="1556521295885" duration="2542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91644000" />
+    <option name="totallyTimeSpent" value="94186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13247864" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13369964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,7 +486,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32906976" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23488373" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23453909" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -637,41 +616,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeiYuDuiXiang/DecimalDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeiYuDuiXiang/IntegerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeiYuDuiXiang/Filed2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeiYuDuiXiang/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="29" selection-start-line="21" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeiYuDuiXiang/Score.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeiYuDuiXiang/XY.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -894,20 +838,6 @@
     <entry file="file://$PROJECT_DIR$/src/Starbucks/Cards.java" />
     <entry file="file://$PROJECT_DIR$/src/Starbucks/W阿姨.java" />
     <entry file="file://$PROJECT_DIR$/src/Starbucks/Encapsulatedobject2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1Way1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -932,28 +862,88 @@
     <entry file="file://$PROJECT_DIR$/src/Starbucks/Encapsulatedobject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1Way1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starbucks/CashCard1Way2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="75">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starbucks/Encapsulation3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="474">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/类语法细节/CashCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/类语法细节/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/类语法细节/Some0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/类语法细节/Some1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/类语法细节/OverloadBoxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
