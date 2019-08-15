@@ -20,37 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/Color.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/Red.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/Green.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -89,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/ColorFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="375">
               <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <element signature="e#249#250#0" expanded="true" />
@@ -102,17 +71,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/FactoryProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="180">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/AbstractFactoryPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/AbstractFactoryPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/SingletonPattern/SingleObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="420">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SingletonPattern/SinglePatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/继承与多态/抽象方法/Role.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -141,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/继承与多态/Game1/MgicMan.java" />
-        <option value="$PROJECT_DIR$/src/继承与多态/Game1/RPG.java" />
         <option value="$PROJECT_DIR$/src/继承与多态/Game2/RPG2.java" />
         <option value="$PROJECT_DIR$/src/继承与多态/Game1/MagicMan.java" />
         <option value="$PROJECT_DIR$/src/继承与多态/Game1/SwordMan.java" />
@@ -192,14 +190,15 @@
         <option value="$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/ColorFactory.java" />
         <option value="$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/FactoryProducer.java" />
         <option value="$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/AbstractFactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/SingletonPattern/SingleObject.java" />
+        <option value="$PROJECT_DIR$/src/SingletonPattern/SinglePatternDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="13" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
-    <option name="width" value="1656" />
-    <option name="height" value="1019" />
+    <option name="width" value="1680" />
+    <option name="height" value="954" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -249,20 +248,18 @@
             <path>
               <item name="CrazyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrazyJava" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrazyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrazyJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CrazyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="CrazyJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithmicpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CrazyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrazyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithmicpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactoryPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="SingletonPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryPatternDemo">
+  <component name="RunManager" selected="Application.SinglePatternDemo">
     <configuration name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithmicpattern.AbstractFactoryPattern.AbstractFactoryPatternDemo" />
       <module name="CrazyJava" />
@@ -317,19 +314,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algorithmicpattern.AbstractFactoryPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类语法细节.CallByValue" />
-      <module name="CrazyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="类语法细节.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,20 +360,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SinglePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonPattern.SinglePatternDemo" />
+      <module name="CrazyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SingletonPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CallByValue" />
       <item itemvalue="Application.RPG" />
       <item itemvalue="Application.FactoryPatternDemo" />
       <item itemvalue="Application.AbstractFactoryPatternDemo0" />
       <item itemvalue="Application.AbstractFactoryPatternDemo" />
+      <item itemvalue="Application.SinglePatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinglePatternDemo" />
         <item itemvalue="Application.AbstractFactoryPatternDemo" />
         <item itemvalue="Application.AbstractFactoryPatternDemo0" />
         <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.RPG" />
-        <item itemvalue="Application.CallByValue" />
       </list>
     </recent_temporary>
   </component>
@@ -466,18 +463,20 @@
       <workItem from="1563608917601" duration="2534000" />
       <workItem from="1563987722452" duration="2444000" />
       <workItem from="1564325578145" duration="7000" />
-      <workItem from="1564331277814" duration="786000" />
+      <workItem from="1564331277814" duration="1885000" />
+      <workItem from="1564558154377" duration="1458000" />
+      <workItem from="1564890561510" duration="671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119786000" />
+    <option name="totallyTimeSpent" value="123014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="954" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15995117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13675214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,8 +485,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32905483" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32344633" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32244897" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4535963" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -623,6 +622,30 @@
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingletonPattern/SingleObject.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingletonPattern/SingleObject.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingletonPattern/SinglePatternDemo.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingletonPattern/SinglePatternDemo.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LiAo/Test.java</url>
           <line>16</line>
@@ -630,6 +653,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SingletonPattern/SingleObject.java</url>
+          <line>17</line>
+          <properties class="SingletonPattern.SingleObject" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/类语法细节/CallByValue.java</url>
@@ -641,8 +672,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/继承与多态/Game2.java" />
-    <entry file="file://$PROJECT_DIR$/src/继承与多态/Game2/RPG2.java" />
     <entry file="file://$PROJECT_DIR$/src/类语法细节/ObjectlniyialBlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -721,13 +750,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/Factorypattern.java" />
-    <entry file="file://$PROJECT_DIR$/src/继承与多态/抽象方法/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/FactoryPattern/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -846,6 +868,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15705">
+          <caret line="1104" column="19" selection-start-line="1104" selection-start-column="19" selection-end-line="1104" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/Color.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -874,10 +903,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15705">
-          <caret line="1104" column="19" selection-start-line="1104" selection-start-column="19" selection-end-line="1104" selection-end-column="19" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -890,7 +919,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/ColorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="375">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding>
             <element signature="e#249#250#0" expanded="true" />
@@ -901,22 +930,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/FactoryProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithmicpattern/AbstractFactoryPattern/AbstractFactoryPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="705">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingletonPattern/SinglePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/继承与多态/抽象方法/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingletonPattern/SingleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
